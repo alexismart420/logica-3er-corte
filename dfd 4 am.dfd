@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+saldo 
+1
+0
+4
+1
+22
+'bienvenido al cajero'
+4
+1
+23
+'seleccione una opcion'
+4
+1
+18
+'1 retirar dinero'
+4
+1
+20
+'2 consignar dinero'
+4
+1
+13
+'3 ver saldo'
+4
+1
+9
+'4 salir'
+5
+1
+6
+opcion
+7
+0
+1
+8
+opcion=1
+13
+5
+1
+11
+valorretiro
+7
+0
+1
+65
+valroretiro MOD 10000=0 and valorretiro>0 and valorretiro<= saldo
+13
+13
+13
+1

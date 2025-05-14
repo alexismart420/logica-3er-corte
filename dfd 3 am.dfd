@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+2
+vr
+7
+0
+1
+23
+vl mod 10000=0 and vl>0
+13
+6
+1
+1
+r
+2
+vr
+13
+9
+1
+11
+r >= 100000
+7
+0
+1
+16
+c100000=r/100000
+13
+13
+11
+4
+1
+37
+'cantidad de billetes de 100 mil' , c
+6
+1
+8
+restante
+19
+restante MOD 100000
+9
+1
+16
+restante >=50000
+7
+0
+1
+10
+cc=r/50000
+13
+4
+1
+23
+'billetes de 50mil', cc
+13
+6
+1
+8
+restante
+18
+restante MOD 50000
+9
+1
+16
+restante>=20000 
+7
+0
+1
+10
+cv=r/20000
+13
+4
+1
+23
+'billetes de 20mil', cv
+13
+6
+1
+9
+restante 
+18
+restante MOD 20000
+9
+1
+15
+restante>=10000
+6
+1
+2
+cd
+14
+restante/10000
+11
+11
+11
+1
